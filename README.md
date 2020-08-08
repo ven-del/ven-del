@@ -2,7 +2,7 @@
 
 # Wendell Régis
 
-### Oi, meu(minha) cabra! 👋
+### Oi, meu(minha) cabra! <img width="20px" height="20px" src="https://github.com/tourianr/arquivo-api-upload/blob/master/9fudkPrt_400x400.jpg">
 Tenho uma certa facilidade em analisar e resolver problemas e estou procurando transpor isso para a programação.<br>
 Sou um analista de Service Desk tentando rolar um D20 no desenvolvimento. 🎲
 
