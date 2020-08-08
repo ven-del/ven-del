@@ -2,7 +2,7 @@
 
 # Wendell Régis
 
-### Oi, meu cabra! 👋
+### Oi, meu(minha) cabra! 👋
 Tenho uma certa facilidade em analisar e resolver problemas e estou procurando transpor isso para a programação.<br>
 Sou um analista de Service Desk tentando rolar um D20 no desenvolvimento. 🎲
 
