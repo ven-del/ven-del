@@ -6,7 +6,7 @@
 Tenho uma certa facilidade em analisar e resolver problemas e estou procurando transpor isso para a programação.<br>
 Sou um analista de Service Desk tentando rolar um D20 no desenvolvimento. 🎲
 
-- 🔭 Trabalho atualmente na Dongkuk Systems;
+- 🔭 Trabalho atualmente na Dkunc Serviço de TI;
 - 🖥️ Busco colaborar e aprender tanto com Front-end quanto com Back-end
 - 🌱 Estou me dedicando a aprender HTML, CSS, JavaScript, Python, PHP & Flutter (e uma pitadinha assim de Java);
 - 🎮 Curto jogos sejam eles eletrônicos ou de tabuleiro, música, séries e tecnologia;
