@@ -1,7 +1,6 @@
-<h1 align="center"> Oi, meu(minha) cabra! <img width="30px" height="30px" src="https://github.com/tourianr/arquivo-api-upload/blob/master/9fudkPrt_400x400.jpg"> </h1
-  
-<h3 align="center">Me chamado Wendell, Sou um Analista de Suporte Junior (Service Desk) tentando rolar um D20 no desenvolvimento. 🎲 
-Tenho uma certa facilidade em analisar e resolver problemas e procuro transpor isso para a programação. </h3>
+<h1 align="center"> Oi, meu(minha) cabra! <img width="30px" height="30px" src="https://github.com/tourianr/arquivo-api-upload/blob/master/9fudkPrt_400x400.jpg"> </h1>  
+<h4 align="center">Me chamo Wendell, sou Analista de Suporte Junior (Service Desk) tentando rolar um D20 como dev. 🎲<br>
+Tenho uma certa facilidade em analisar e resolver problemas e procuro transpor isso para a programação. </h4>
   
 - 🔭 Trabalho atualmente na Dkunc Serviço de TI;
 
