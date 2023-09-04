@@ -1,12 +1,12 @@
 <h1 align="center"> Oi, meu(minha) cabra! <img width="30px" height="30px" src="https://github.com/tourianr/arquivo-api-upload/blob/master/9fudkPrt_400x400.jpg"> </h1>  
-<h3 align="center">Me chamo Wendell, sou Analista de Suporte Junior (Service Desk) tentando rolar um D20 como dev. 🎲<br>
+<h3 align="center">Me chamo Wendell e eu quase não atualizo isso daqui. Mas vez ou outra dá certo.<br>
 Tenho facilidade em analisar e resolver problemas e procuro transpor isso para a programação. </h3>
   
-- 🔭 Trabalho atualmente na Dkunc Serviço de TI;
+- 🔭 Trabalho atualmente na Accenture;
 
 - 🖥️ Busco colaborar e aprender tanto com Front-end quanto com Back-end
 
-- 🌱 Estou me dedicando a aprender HTML, CSS, JavaScript, Python, PHP & Flutter (e uma pitadinha assim de Java);
+- 🌱 Estou me dedicando a aprender HTML, CSS, JavaScript, TypeScript e Python (e uma pitadinha assim de C#);
 
 - 🎮 Curto jogos sejam eles eletrônicos ou de tabuleiro, música, séries e tecnologia;
 
