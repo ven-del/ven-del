@@ -2,7 +2,7 @@
 <h3 align="center">Me chamo Wendell e eu quase não atualizo isso daqui. Mas vez ou outra dá certo.<br>
 Tenho facilidade em analisar e resolver problemas e procuro transpor isso para a programação. </h3>
   
-- 🔭 Trabalho atualmente na Accenture;
+- 🔭 Estou em busca de um novo emprego;
 
 - 🖥️ Busco colaborar e aprender tanto com Front-end quanto com Back-end
 
