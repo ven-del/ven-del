@@ -18,9 +18,9 @@
 
 Aqui neste perfil você vai encontrar meus projetos de desenvolvimento web.
 
-No perfil do [Laboratório.CE](https://github.com/Laboratorio-CE) você vai encontrar meus projetos de desenvolvimento de jogos.
+No perfil do [Laboratório.CE](https://github.com/Laboratorio-CE) você encontra meus projetos de desenvolvimento de jogos.
 
-O Laboratório é um pequeno projeto que tenho desde muito tempo, onde agora estou dando a ele o rumo de ser minha marca e, futuramente, onde pretendo lançar meus trababalhos e serviços, além dos jogos que eu desenvolver.
+O Laboratório é um projeto antigo meu, que agora estou transformando na minha marca pessoal. A ideia é que, além dos jogos que eu criar, ele também seja o espaço onde vou lançar meus trabalhos e serviços no futuro
 
 </div>
 
