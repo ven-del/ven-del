@@ -1,7 +1,7 @@
 <!-- Parte superior da página -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=2a0055&height=150&section=header&text=Oi%2C%20meu%20cabra!&fontSize=30&fontColor=ffffff" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=2a0055&height=150&section=header&text=Oi%2C%20meu%20cabra!&fontSize=80&fontColor=ffffff" 
     alt="cabeçalho com texto"
   >
 </p>
@@ -97,5 +97,8 @@ O Laboratório é um pequeno projeto que tenho desde muito tempo, onde agora est
 
 ---
 
-<!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2a0055&height=120&section=footer"/>
+<img align="right" src="https://static.wikia.nocookie.net/592ece03-0298-43b4-86d3-46a165528682/scale-to-width/755" width="150" alt="Naruto hokage" />
+
+> _"If you walk down the path that you believe is right, you cannot be wrong."_ <br>
+> — **The Hero of Justice**
+<br>
