@@ -6,12 +6,6 @@
   >
 </p>
 
-<div align="center">
-  <a href="https://github.com/ven-del">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ven-del&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ven-del&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
 <div align="justify">
   
 # Me chamo Wendell e lhe dou boas-vindas
@@ -36,6 +30,15 @@ O Laboratório é um projeto antigo meu, que agora estou transformando na minha 
   -  Tenho como objetivo imediato migrar minha carreira para desenvolvedor;
   -  Tenho como objetivo a longo prazo (bota aí uns 10 anos) virar desenvolvedor de jogos;
   
+</div>
+
+
+## Stats
+
+<div align="center">
+  <a href="https://github.com/ven-del">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ven-del&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ven-del&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
 ## Skills
@@ -102,3 +105,7 @@ O Laboratório é um projeto antigo meu, que agora estou transformando na minha 
 > _"If you walk down the path that you believe is right, you cannot be wrong."_ <br>
 > — **The Hero of Justice**
 <br>
+
+<img src="https://raw.githubusercontent.com/ven-del/ven-del/output/snake.svg" alt="Snake animation" />
+
+###
