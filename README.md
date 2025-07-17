@@ -106,6 +106,6 @@ O Laboratório é um projeto antigo meu, que agora estou transformando na minha 
 > — **The Hero of Justice**
 <br>
 
-<img src="https://raw.githubusercontent.com/ven-del/ven-del/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/ven-del/ven-del/output/snake.svg" alt="Snake animation" />
 
 ###
