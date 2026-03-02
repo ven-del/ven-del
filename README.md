@@ -41,7 +41,7 @@ O Laboratório é um projeto antigo meu, que agora estou transformando na minha 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ven-del&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-    A aba de stats está quebrada, ainda sem previsão de voltar. Se conhecer alguma substituta me avisa pra eu trocar aqui!
+> A aba de stats está quebrada, ainda sem previsão de voltar. Se conhecer alguma substituta me avisa pra eu trocar aqui!
 
 ## Skills
 
